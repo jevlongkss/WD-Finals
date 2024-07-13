@@ -61,19 +61,19 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
-The project is to build a personal website that showcases your design skills and web development knowledge. 
+-The project is to build a personal website that showcases your design skills and web development knowledge. 
 
 - Whats the purpose
-To create a professional and functional personal website that serves as a portfolio, highlighting your skills, experience, and past projects.
+-To create a professional and functional personal website that serves as a portfolio, highlighting your skills, experience, and past projects.
 
 - What are key components
-Minimum of 5 pages with unique layouts.
+-Minimum of 5 pages with unique layouts.
 Resume-like information.
 Project showcase page.
 Engaging overview page.
 
 - What technology used and how it is used
-HTML, CSS, JavaScript: For building the website.
+-HTML, CSS, JavaScript: For building the website.
 Libraries: Font Awesome, Google Fonts, Bootstrap, Material UI, or Tailwind CSS for styling and functionality.
 GitHub Actions: For deploying the website online.
 
@@ -84,7 +84,7 @@ GitHub Actions: For deploying the website online.
 - Resume-like information.
 Project showcase page.
 Engaging overview page.
-- 
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
