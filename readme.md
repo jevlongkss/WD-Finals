@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  to build a personal website showcasing their design and development skills. (Optional)
+  to build a personal website showcasing their design and development skills. 
 </div>
 
 <br />
@@ -163,3 +163,6 @@ Engaging overview page.
 |Google Fonts|PIXEL FONT|https://fonts.google.com/?preview.layout=grid|
 |Youtube| How to link stylesheet | https://www.youtube.com/watch?v=4OMdzHnys9o
 |Google | GIF images | https://www.rowsdowr.com/2012/08/01/fighting-game-backgrounds-gaming-gifs/#/ |
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
