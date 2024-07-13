@@ -160,9 +160,9 @@ Engaging overview page.
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|Google Fonts|PIXEL FONT|https://fonts.google.com/?preview.layout=grid|
-|Youtube| How to link stylesheet | https://www.youtube.com/watch?v=4OMdzHnys9o
-|Google | GIF images | https://www.rowsdowr.com/2012/08/01/fighting-game-backgrounds-gaming-gifs/#/ |
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+|-|-|-|
+| Google | Icons, images, and backgrounds. | google.com |
+| Pinterest | Idea for Website designs. And images  | pinterest.com |
+| Youtube | Idea on how to create a good website | https://www.youtube.com/results?search_query=how+to+make+landing+page+vscode |
+| Google Fonts | Fonts | https://fonts.google.com/?preview.layout=grid |
+| Deployment Link | Published site link | https://jevlongkss.github.io/WD-Finals/ |
