@@ -16,6 +16,10 @@
   to build a personal website showcasing their design and development skills. 
 </div>
 
+<p align="center">
+<img src="https://wakatime.com/share/@33391ff6-b94a-439b-abb5-c753ae94697f/4a768783-28bd-451c-822e-b47e7605d96b.svg" height="400"/>
+</p>
+
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
