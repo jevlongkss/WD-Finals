@@ -170,3 +170,4 @@ Engaging overview page.
 | Youtube | Idea on how to create a good website | https://www.youtube.com/results?search_query=how+to+make+landing+page+vscode |
 | Google Fonts | Fonts | https://fonts.google.com/?preview.layout=grid |
 | Deployment Link | Published site link | https://jevlongkss.github.io/WD-Finals/ |
+| Wakatime Dashboard | To see my wakatime dashboard | https://wakatime.com/dashboard |
