@@ -11,10 +11,10 @@ header {
     background: linear-gradient(to right, #ff0000, #ff6347); 
     padding: 10px 0;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); 
-    position: fixed; /* Fixed header */
-    width: 100%; /* Full width */
-    top: 0; /* Stick to top */
-    z-index: 1000; /* Stay on top */
+    position: fixed; 
+    width: 100%; 
+    top: 0; 
+    z-index: 1000; 
     transition: background 0.3s ease-in-out; 
 }
 
