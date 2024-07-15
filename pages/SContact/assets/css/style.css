@@ -171,9 +171,9 @@ button:hover {
 .social-media a {
     display: inline-block;
     margin: 0 10px;
-    font-size: 1.5em; /* Adjust icon size */
-    color: #ffffff; /* Icon color */
-    transition: color 0.3s ease-in-out; /* Smooth transition on hover */
+    font-size: 1.5em; 
+    color: #ffffff; 
+    transition: color 0.3s ease-in-out; 
 }
 
 .social-media a:hover {
